@@ -36,6 +36,7 @@ simon-says/
 ![](media/starting-screen.png)
 
 2. Once the game has started, try your best to remember your random sequence of buttons. The game gets progressively more difficult as you have to remember longer sequences. The goal is to get to the highest level that you can.
+
 ![](https://media.giphy.com/media/LTSUKO75dxyoLAMAJ4/giphy.gif)
 
 3. If you get a sequence wrong, the screen will flash red and you will have to restart.
