@@ -33,13 +33,16 @@ simon-says/
 
 # How to Play
 1. Press any key to start.
-![](media/starting-screen.png)
+
+<img src="media/starting-screen.png" alt="drawing" width="480"/>
 
 2. Once the game has started, try your best to remember your random sequence of buttons. The game gets progressively more difficult as you have to remember longer sequences. The goal is to get to the highest level that you can.
+
 ![](https://media.giphy.com/media/LTSUKO75dxyoLAMAJ4/giphy.gif)
 
 3. If you get a sequence wrong, the screen will flash red and you will have to restart.
-![](media/wrong-screen.png)
+
+<img src="media/wrong-screen.png" alt="drawing" width="480"/>
 
 # Thanks
 Thanks to Angela Yu and her course on Udemy for making this possible.
