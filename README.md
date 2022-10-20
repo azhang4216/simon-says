@@ -1,6 +1,6 @@
 # Simon Says Game
 A game created using JS, DOM manipulation, jQuery.
-Created by Angela Zhang, with resources by Udemy and instructor Angela Yu.
+Created by Angela Zhang.
 
 # Installation
 1. clone the repo
@@ -43,6 +43,3 @@ simon-says/
 3. If you get a sequence wrong, the screen will flash red and you will have to restart.
 
 <img src="media/wrong-screen.png" alt="drawing" width="480"/>
-
-# Thanks
-Thanks to Angela Yu and her course on Udemy for making this possible.
